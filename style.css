@@ -1,0 +1,28 @@
+#input-form{
+max-width: 1080px;
+max-height: 250px;
+overflow-y: scroll;
+background-color: #300A24;
+color: #fff;
+padding: 10px;
+font-size: 12px;
+
+}
+
+#output-form{
+padding: 10px;
+font-size: 12px;
+max-width: 768px;
+max-height: 250px;
+overflow-y: scroll;
+background-color: #e5e5e5;
+}
+
+#testcase-form{
+padding: 10px;
+font-size: 12px;
+max-width: 768 px;
+max-height: 250px;
+overflow-y: scroll;
+background-color: #e5e5e5;
+}
